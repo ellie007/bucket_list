@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 ruby "1.9.3"
+
+rails 3.2.11
+
 gem 'rails', '3.2.15'
 gem "less-rails"
 gem "therubyracer"
